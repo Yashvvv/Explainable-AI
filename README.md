@@ -1,5 +1,4 @@
-Smart Energy Management and Alert System
-
+PowerPlanner
 Overview
 
 The Smart Energy Management and Alert System is designed to help users optimize their energy consumption by providing real-time alerts and live energy tariff prices. This innovative system empowers users to make informed decisions about their energy usage, leading to cost savings and sustainable living.
