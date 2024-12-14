@@ -38,7 +38,6 @@ Scheduling: node-schedule (for periodic alerts)
 
 Environment Variables: dotenv (for secure configuration management)
 
-Database: [Specify if used, e.g., MongoDB]
 
 Installation Guide
 
@@ -52,8 +51,7 @@ Steps to Run the Project Locally
 
 Clone the Repository
 
-git clone https://github.com/your-username/your-repository-name.git
-
+git clone (https://github.com/Yashvvv/Web-d.git)
 Install Dependencies
 
 cd your-repository-name
@@ -72,4 +70,4 @@ node server.js
 The server will run on http://localhost:5005.
 
 Access the Website
-Open index.html in your browser to access the frontend. If a framework like React or Vue.js is used, serve the frontend using npm start or a similar command.
+Open index.html in your browser to access the frontend. 
